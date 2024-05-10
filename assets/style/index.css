@@ -310,3 +310,35 @@ margin-left: 70px;}
 
 .but6{margin-left: 70px;
 margin-top: 190px;}
+
+.footer{padding-top: 58px;}
+
+.foot1{width: 108px;
+height: 175px;}
+.foot2{width: 84px;
+height: 206px;}
+.foot3{width: 105px;
+height: 175px;}
+
+.footer1{display: flex ;
+justify-content: space-around;
+}
+
+.foot4{display: flex;
+margin-top: 80px;
+margin-right: 20px;}
+
+.line{border-bottom: solid 1px;
+  color:rgb(78, 77, 147);
+margin-top: 40px;
+width: 1000px;
+margin-left: 150px;}
+
+.iconfoot{display: flex;
+justify-content: space-between;
+margin-left: 40px;
+margin-top: 20px;
+margin-right: 40px;}
+
+.iconfoot2{display: flex;}
+.iconfoot2 img{margin-right:10px;}
